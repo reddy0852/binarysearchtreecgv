@@ -10,7 +10,7 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 
 # Binary Search Tree Visualization
 
-This project visualizes a binary search tree using OpenGL in C.
+This project visualizes a binary search tree using OpenGL in C++.
 
 ## Features
 
