@@ -21,7 +21,7 @@ This project visualizes a binary search tree using OpenGL in C.
 ## Usage
 
 1. Clone the repository
-2. Install OpenGL and C compiler
+2. Install OpenGL and C++ compiler
 3. Compile the project using GCC
 4. Run the executable
 
